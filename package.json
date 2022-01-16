@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/abstractsins/npm-test#readme",
   "devDependencies": {
-    "mocha": "^9.1.3"
+    "chai": "*",
+    "mocha": "*"
   }
 }
